@@ -1,5 +1,5 @@
 {
-  "name": "forter/magento2-module-forter",
+  "name": "forter1/magento2-module-forter",
   "description": "Forter Fraud Prevention For Magento 2",
   "require": {
     "php": ">=5.6"
